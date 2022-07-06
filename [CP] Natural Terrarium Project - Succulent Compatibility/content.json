@@ -1,0 +1,29 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+         {
+        "Action": "EditImage",
+         "Target": "LooseSprites/AquariumFish",
+          "FromFile": "assets/succulentdecorations.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 264, "Height": 48 }, 
+          "ToArea": { "X": 0, "Y": 5904, "Width": 264, "Height": 48 },
+     },
+    {
+      "Action": "EditData",
+      "Target": "Data/AquariumFish",
+      "Entries": {
+        "329": "2460/static",
+        "331": "2461/static",
+        "401": "2462/static",
+        "841": "2463/static",
+        "405": "2464/static",
+        "407": "2465/static",
+        "411": "2466/static",
+        "415": "2467/static",
+        "293": "2468/static",
+        "{{spacechase0.JsonAssets/ObjectId: Edible Succulents Starter}}": "2469/static",
+        "{{spacechase0.JsonAssets/ObjectId: Decorative Succulents Starter}}": "2470/static",
+    }
+    },
+   ]
+}

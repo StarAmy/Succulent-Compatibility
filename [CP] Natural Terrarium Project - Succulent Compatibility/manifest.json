@@ -1,0 +1,19 @@
+{
+  "Name": "[CP] Natural Terrarium Project - Succulent Compatibility",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Adds fish tank animations for DustBeauty's succulents.",
+  "UniqueID": "StarAmy.TankSucculents",
+   "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   },
+     "Dependencies": [
+    {
+      "UniqueID": "spacechase0.JsonAssets",
+    },
+    {
+      "UniqueID": "Hesper.JA.Succulents",
+    },
+  ]
+}
